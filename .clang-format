@@ -1,0 +1,19 @@
+BasedOnStyle: mozilla
+IndentWidth: 4
+PointerAlignment: Right
+SpaceAfterCStyleCast: true
+ColumnLimit: 100
+ContinuationIndentWidth: 8
+AlignAfterOpenBracket: DontAlign
+AlignOperands: DontAlign
+IndentCaseLabels: false
+
+AccessModifierOffset: -4
+ConstructorInitializerIndentWidth: 4
+NamespaceIndentation: All
+
+SortIncludes: false
+AlwaysBreakAfterReturnType: None
+AlwaysBreakAfterDefinitionReturnType: None
+PenaltyReturnTypeOnItsOwnLine: 60
+BreakBeforeBraces: Linux
