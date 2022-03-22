@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-
 int main(void)
 {
-    int num_of_pupils , num_of_apples;
+    int num_of_pupils, num_of_apples;
 
     scanf("%d\n%d", &num_of_pupils, &num_of_apples);
 

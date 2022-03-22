@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-enum{
+enum {
     KOPECS_IN RUB = 100,
 };
 

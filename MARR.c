@@ -6,7 +6,7 @@ enum {
 
 int main()
 {
-    int v ,t;
+    int v, t;
     scanf("%d\n%d", &v, &t);
 
     int path = v * t;
@@ -18,5 +18,5 @@ int main()
 
     printf("%d", path);
 
-    return(0);
+    return 0;
 }

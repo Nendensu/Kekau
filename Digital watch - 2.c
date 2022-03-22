@@ -14,7 +14,7 @@ int main(void)
 
     int hours = sec_passed / MIN_IN_HOUR / SEC_IN_MIN % HOURS_IN_DAY;
     int min = sec_passed % (MIN_IN_HOUR * SEC_IN_MIN) / SEC_IN_MIN;
-    int sec = sec_passed % ( MIN_IN_HOUR * SEC_IN_MIN) % SEC_IN_MIN;
+    int sec = sec_passed % (MIN_IN_HOUR * SEC_IN_MIN) % SEC_IN_MIN;
 
     printf("%d:%02d:%02d", hours, min, sec);
 

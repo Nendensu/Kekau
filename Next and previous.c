@@ -6,7 +6,9 @@ int main()
 
     scanf("%d", &n);
 
-    printf("The next number for the number %d is %d.\nThe previous number for the number %d is %d.", n, n+1, n, n-1);
+    printf("The next number for the number %d is %d.\nThe previous number for the number %d is %d.",
+            n, n + 1,
+            n, n - 1);
 
     return 0;
 }

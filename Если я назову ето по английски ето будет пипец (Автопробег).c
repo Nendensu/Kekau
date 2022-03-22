@@ -12,6 +12,5 @@ int main(void)
 
     printf("%d", days);
 
-
     return 0;
 }

@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main()
 {
     int num_of_pupils, num_of_apples;
@@ -11,5 +10,5 @@ int main()
 
     printf("%d", num);
 
-    return(0);
+    return 0;
 }

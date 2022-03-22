@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-enum{
+enum {
     LESSON_DUR = 45,
     LESSON_START_HOURS = 9,
     LESSON_START_MIN = 0,
